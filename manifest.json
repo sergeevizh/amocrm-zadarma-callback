@@ -19,18 +19,18 @@
             "lcard-1"
             ],
     "settings":{
-                "login":{
-                        "name": "settings.login",
+                "test":{
+                        "name": "Тестовое текстовое поле",
                         "type": "text",
                         "required": true
                         },
                 "api_key":{
-                        "name": "settings.api_key",
+                        "name": "Ключ API",
                         "type": "text",
                         "required": true
                         },
-                "account":{
-                        "name": "settings.account",
+                "api_secret":{
+                        "name": "Секрет API",
                         "type": "text",
                         "required": true
                         }
